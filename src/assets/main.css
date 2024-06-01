@@ -1,0 +1,16 @@
+* {
+
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body{
+ margin: 0;
+
+}
+
+.wrapper{
+  background: url("@/assets/image/fon1.png") fixed;
+  background-size: cover;/* ФОН */
+}
